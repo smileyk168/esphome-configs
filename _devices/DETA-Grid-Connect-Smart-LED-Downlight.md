@@ -30,7 +30,7 @@ Source: [https://templates.blakadder.com/deta_DET902HA.html](https://templates.b
 
 Flash wirelessly with Tuya-Convert
 - Put the airing mode by repeating the power on/off cycles 5 times, with 1 second in each.
-- The status LED blinks rapidly to confirm that it has entered pairing mode.
+- The downlight blinks rapidly to confirm that it has entered pairing mode.
 
 ### RGBWW
 The default light platform RGBWW have sliders that aren't intuitive to use.  Recommend substituting the code by "displaced" for a more intuitive experience.
