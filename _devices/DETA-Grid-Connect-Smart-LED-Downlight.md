@@ -16,13 +16,13 @@ The DETA [Smart LED Downlight 7W DET900HA](https://www.bunnings.com.au/deta-7w-s
 ## GPIO Pinout
 Source: [https://templates.blakadder.com/deta_DET902HA.html](https://templates.blakadder.com/deta_DET902HA.html)
 
-| Pin     | Function                           |
-|---------|------------------------------------|
-| GPIO5   | Red                                |
-| GPIO4   | Green                              |
-| GPIO13  | Blue                               |
-| GPIO14  | Warm White                         |
-| GPIO12  | Cold White                               |
+| Pin     | Function               |
+|---------|------------------------|
+| GPIO5   | Red                    |
+| GPIO4   | Green                  |
+| GPIO13  | Blue                   |
+| GPIO14  | Warm White             |
+| GPIO12  | Cold White             |
 
 ## Getting it up and running
 
