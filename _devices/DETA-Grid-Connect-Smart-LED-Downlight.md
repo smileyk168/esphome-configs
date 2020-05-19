@@ -36,6 +36,11 @@ Flash wirelessly with Tuya-Convert
 The default light platform RGBWW have sliders that aren't intuitive to use.  Recommend substituting the code by "displaced" for a more intuitive experience.
 ([https://community.home-assistant.io/t/cw-ww-and-colour-temperature-slider-support-in-custom-light-output/148098/11](https://community.home-assistant.io/t/cw-ww-and-colour-temperature-slider-support-in-custom-light-output/148098/11))
 
+### Transformer
+ - The wireless control module is located in the transformer.  
+ - The terminals on the mains power side of the transformer is rather small.
+
+
 ## Basic Configuration
 
 ```yaml
