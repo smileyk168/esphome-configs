@@ -29,7 +29,7 @@ Source: [https://templates.blakadder.com/deta_DET902HA.html](https://templates.b
 ### Tuya Convert
 
 Flash wirelessly with Tuya-Convert
-- Put the airing mode by repeating the power on/off cycles 5 times, with 1 second in each.
+- Put the airing mode by repeating the power on/off cycles 5 times, with 1 second between each.
 - The downlight blinks rapidly to confirm that it has entered pairing mode.
 
 ### RGBWW
@@ -38,7 +38,7 @@ The default light platform RGBWW have sliders that aren't intuitive to use.  Rec
 
 ### Transformer
  - The wireless control module is located in the transformer.  
- - The terminals on the mains power side of the transformer is rather small.
+ - The terminals on the mains power side of the transformer are rather small.
 
 
 ## Basic Configuration
